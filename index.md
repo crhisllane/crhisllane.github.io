@@ -18,7 +18,6 @@
                 <ul>
                     <li><a href="#about">About</a></li>
                     <li><a href="#downloads">Downloads</a></li>
-                    <li><a href="#benefits">Benefits</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </nav>
@@ -49,65 +48,6 @@
             </div>
         </section>
         <hr/>
-        <section class="downloads" id="downloads">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 center-xs">
-                        <h2 class="section-title">Downloads</h2>
-                    </div>
-                </div>
-                <div class="row icon-row">
-                    <div class="col-xs center-xs">
-                        <img src="img/001-achievement.svg" class="icon"><br/>
-                        Service 1
-                    </div>
-                    <div class="col-xs center-xs">
-                        <img src="img/002-pencil.svg" class="icon"><br/>
-                        Service 2
-                    </div>
-                    <div class="col-xs center-xs">
-                        <img src="img/003-idea.svg" class="icon"><br/>
-                        Service 3
-                    </div>
-                </div>
-                 <div class="row icon-row">
-                    <div class="col-xs center-xs">
-                        <img src="img/004-shopping-bag.svg" class="icon"><br/>
-                        Service 4
-                    </div>
-                    <div class="col-xs center-xs">
-                        <img src="img/005-fountain-pen.svg" class="icon"><br/>
-                        Service 5
-                    </div>
-                </div>
-                <div class="row margin-bottom ">
-                    <div class="col-md">
-                        <p class="highlight">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
-                        <p class="author">- John Doe</p>
-                    </div>
-                    <div class="col-md">
-                        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                    </div>
-                    <div class="col-md">
-                        <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="cta middle-xs">
-            <div class="container">
-                <div class="row middle-md">
-                    <div class="col-md-8">
-                        <h2>Call to Action</h2>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
-                        <a href=""><button class="light">Call to action</button></a>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="img/cta-display.png" class="display">
-                    </div>
-                </div>
-            </div>
-        </section>
             <section class="cta">
                 <div class="container">
                     <div class="row center-xs">
@@ -119,11 +59,11 @@
                     </div>
                 </div>
             </section>
-            <section class="blurbs" id="benefits">
+            <section class="blurbs" id="downloads">
                 <div class="container">
                     <div class="row">
                         <div class="col-md center-xs">
-                            <h2 class="section-title">Benefits</h2>
+                            <h2 class="section-title">Downloads</h2>
                         </div>
                     </div>
                     <div class="row margin-bottom-small center-xs">

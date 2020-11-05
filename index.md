@@ -216,8 +216,8 @@
                     </div>
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">
-                            <a href="data/tab1" class="icon " download="tab1">
-                                <img src="img/001-achievement.svg" alt="tab1">
+                            <a href="data/tab1" download="tab1">
+                                <img src="img/001-achievement.svg" class="icon " alt="tab1">
                             </a>
                             <h3>Tab 1</h3>
                             <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>

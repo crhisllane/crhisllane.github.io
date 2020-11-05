@@ -16,8 +16,8 @@
             <img src="img/drawing.png" class="logo">
             <nav class="end-xs">
                 <ul>
-                    <li><a href="#about-us">About us</a></li>
-                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#downloads">Downloads</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <li><a href="#benefits">Benefits</a></li>
                     <li><a href="#contact">Contact</a></li>
@@ -34,11 +34,11 @@
 </header>
 <div class="wrapper">
     <main>
-        <section class="intro" id="about-us">
+        <section class="intro" id="about">
             <div class="container">
                 <div class="row">
                     <div class="col-md">
-                        <h2 class="section-title">About text</h2>
+                        <h2 class="section-title">About</h2>
                     </div>
                 </div>
                 <div class="row margin-bottom ">
@@ -47,55 +47,14 @@
                         <p class="author">- Crhisllane Vasconcelos and Antonio Rezende</p>
                     </div>
                 </div>
-                <div class="row team center-xs">
-                    <div class="col-md">
-                        <div class="hover-outer-box">
-                            <img src="img/Romi-Kobe.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Romi Kobe</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
-                                    <a href="#!" target="blank" rel="noopener"><img src="img/facebook-icon.svg" class="team-icon"></a> <a href="#!" target="blank" rel="noopener"><img src="img/twitter-icon.svg" class="team-icon"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="team-name">Romi Kobe<br/><span class="position">CEO</span></p>
-                    </div>
-                    <div class="col-md">
-                        <div class="hover-outer-box">
-                            <img src="img/Isaac-Desideria.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Isaac Desideria</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
-                                    <a href="#!" target="blank" rel="noopener"><img src="img/facebook-icon.svg" class="team-icon"></a> <a href="#!" target="blank" rel="noopener"><img src="img/twitter-icon.svg" class="team-icon"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="team-name">Isaac Desideria<br/><span class="position">CTO</span></p>
-                    </div>
-                    <div class="col-md">
-                        <div class="hover-outer-box">
-                            <img src="img/Magda-Ilija.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Magda Ilija</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
-                                    <a href="#!" target="blank" rel="noopener"><img src="img/facebook-icon.svg" class="team-icon"></a> <a href="#!" target="blank" rel="noopener"><img src="img/twitter-icon.svg" class="team-icon"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <p class="team-name">Magda Ilija<br/><span class="position">CFO</span></p>
-                    </div>
-                </div>
             </div>
         </section>
         <hr/>
-        <section class="services" id="services">
+        <section class="downloads" id="downloads">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 center-xs">
-                        <h2 class="section-title">Services</h2>
+                        <h2 class="section-title">Downloads</h2>
                     </div>
                 </div>
                 <div class="row icon-row">

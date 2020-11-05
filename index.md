@@ -109,100 +109,13 @@
                 </div>
             </div>
         </section>
-        <section class="portfolio" id="portfolio">
-            <div class="container">
-                <div class="row center-xs">
-                    <div class="col-md">
-                        <h2 class="section-title">Portfolio</h2>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="padding-small">
-                <div class="row margin-bottom-small">
-                    <div class="col-md-4">
-                        <div class="hover-outer-box">
-                            <img src="img/project-1.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Projecttitle</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</p>
-                                    <a href=""><button class="light">Call to action</button></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="hover-outer-box">
-                            <img src="img/project-2.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Projecttitle</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</p>
-                                    <a href=""><button class="light">Call to action</button></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="hover-outer-box">
-                            <img src="img/project-3.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Projecttitle</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</p>
-                                    <a href=""><button class="light">Call to action</button></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row margin-bottom-small">
-                    <div class="col-md-4">
-                        <div class="hover-outer-box">
-                            <img src="img/project-4.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Projecttitle</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</p>
-                                    <a href=""><button class="light">Call to action</button></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="hover-outer-box">
-                            <img src="img/project-5.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Projecttitle</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</p>
-                                    <a href=""><button class="light">Call to action</button></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="hover-outer-box">
-                            <img src="img/project-6.jpg">
-                            <div class="hover-inner-box">
-                                <div class="hover-content">
-                                    <h3>Projecttitle</h3>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr</p>
-                                    <a href=""><button class="light">Call to action</button></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <section class="cta">
                 <div class="container">
                     <div class="row center-xs">
                         <div class="col-md">
-                            <h2>Call to action</h2>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
-                            <a href=""><button class="light">Call to action</button></a>
+                            <h2>Papers</h2>
+                            <p>Building protein-protein interaction networks for <i>Leishmania</i> species through protein structural information.</p>
+                            <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2105-6"><button class="light">Paper</button></a>
                         </div>
                     </div>
                 </div>

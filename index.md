@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="de-DE" prefix="og: http://ogp.me/ns#">
+<html lang="en-GB">
     <meta charset="UTF-8">
     <title>LeishTargets - project looking for drug targets in the proteome of Leishmania species</title>
     <meta name="description" content="LeishTargets - project looking for drug targets in the proteome of Leishmania species">
-    <link rel="author" href="https://lautenschlager.de"/>
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/protein-image.png">
     <link rel="stylesheet" type="text/css" href="css/normalize.min.css" media="all" />
     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/flexboxgrid.css" media="all" />
@@ -25,11 +24,11 @@
                 </ul>
             </nav>
         </div>
-        <div class="hero flex middle-xs" style="background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)), url('img/hero-image.png');
+        <div class="hero flex middle-xs" style="background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)), url('img/protein-image.png');
     }">
     <div class="hero-text ">
         <h1>LeishTargets</h1>
-        <p>Project looking for drug targets in the proteome of Leishmania species.</p>
+        <p>Project looking for drug targets in the proteome of <i>Leishmania</i> species.</p>
     </div>
 </div>
 </header>

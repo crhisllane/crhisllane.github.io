@@ -13,7 +13,7 @@
 <body>
     <header class="fade-in">
         <div class="navigation-bar flex middle-xs">
-            <img src="img/logo.svg" class="logo">
+            <img src="img/drawing.png" class="logo">
             <nav class="end-xs">
                 <ul>
                     <li><a href="#about-us">About us</a></li>

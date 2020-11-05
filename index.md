@@ -54,7 +54,7 @@
                         <div class="col-md">
                             <h2>Papers</h2>
                             <p>Building protein-protein interaction networks for <i>Leishmania</i> species through protein structural information.</p>
-                            <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2105-6"><button class="light">Paper</button></a>
+                            <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2105-6" target="_blank"><button class="light">Paper</button></a>
                         </div>
                     </div>
                 </div>

@@ -164,16 +164,5 @@
         </div>
     </footer>
 
-    <div class="row secondary-footer">
-        <div class="col-md">
-         <p>Made with love ♥ by Andreas Lautenschlager © 2019.</p>                
-     </div>
-     <div class="col-md end-md">
-         <p><a href="#">Imprint</a> | <a href="#">Data Protection</a></p>                
-     </div>
- </div>
- <script src="https://cdn.polyfill.io/v2/polyfill.min.js?callback=polyfillsAreLoaded" defer></script>
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
- <script src="js/script.js" defer></script>
 </body>
 </html>

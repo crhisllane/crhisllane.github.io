@@ -99,19 +99,6 @@
                     </div>
                 </div>
             </section>
-            <section class="newsletter">
-                <div class="container">
-                    <div class="row center-xs">
-                        <div class="col-md ">
-                            <h2>Our newsletter</h2>
-                            <form class="flex center-xs">
-                                <input placeholder="Enter Your Email" type="email" required="" name="">
-                                <button>SUBSCRIBE</button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <section class="contact" id="contact">
                 <div class="container">
                     <div class="row">
@@ -122,7 +109,7 @@
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">Call Us<br/>+49 561 0000 0000</div>
                         <div class="col-md">Address<br/>Streetname 12</div>
-                        <div class="col-md">Email<br/>kontakt@lautenschlager.de</div>
+                        <div class="col-md">Email<br/>crhisllane.vasconcelos@ufpe.br</div>
                     </div>
                     <form action="">
                         <div class="row margin-bottom-small center-xs">

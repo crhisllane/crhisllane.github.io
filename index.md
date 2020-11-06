@@ -24,7 +24,7 @@
         </div>
         <div class="hero flex middle-xs" style="background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)), url('img/protein-image.png');
     }">
-    <div class="hero-text ">
+    <div class="hero-text " id="home">
         <h1>LeishTargets</h1>
         <p>Project looking for drug targets in the proteome of <i>Leishmania</i> species.</p>
     </div>

@@ -78,26 +78,21 @@
                             <p>All data in sql format. </p>
                         </div>
                         <div class="col-md">
-                            <img src="img/aprendizado-de-maquina.svg" class="icon">
-                            <h3>GBM model</h3>
-                            <p>The machine learning algorithms were evaluated against positive and negative interaction datasets used as controls. Based on this analysis, the gbm technique showed a better performance when compared to other machine learning algorithms, obtaining an AUC = 0.88.  The gbm algorithm calculates a response value ranging from 0 to 1, for which a minimum threshold of 0.46 has been determined based on controls to indicate interaction between the proteins.</p>
-                        </div>
+                            <img src="img/rede2.svg" class="icon">
+                            <h3><i>L. infantum</i></h3>
+                            <p>Predicted protein interaction network using structural information. </p>
+                        </div>                       
                         <div class="col-md">
                             <img src="img/rede.svg" class="icon">
                             <h3><i>L. braziliensis</i></h3>
-                            <p>Proteins interaction Network. </p>
+                            <p>Predicted protein interaction network using structural information. </p>
                         </div>
                     </div>
                     <div class="row center-xs">
                         <div class="col-md">
-                            <img src="img/rede2.svg" class="icon">
-                            <h3><i>L. infantum</i></h3>
-                            <p>Proteins interaction Network. </p>
-                        </div>
-                        <div class="col-md">
-                            <img src="img/005-fountain-pen.svg" class="icon">
-                            <h3>Benefit 5</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <img src="img/aprendizado-de-maquina.svg" class="icon">
+                            <h3>GBM model</h3>
+                            <p>The machine learning algorithms were evaluated against positive and negative interaction datasets used as controls. Based on this analysis, the gbm technique showed a better performance when compared to other machine learning algorithms, obtaining an AUC = 0.88.  The gbm algorithm calculates a response value ranging from 0 to 1, for which a minimum threshold of 0.46 has been determined based on controls to indicate interaction between the proteins.</p>
                         </div>
                     </div>
                 </div>
@@ -177,6 +172,8 @@
                             <div class="col-md padding-small">
                                 <textarea placeholder="Your Message" name="" rows="8" class="margin-bottom-small"></textarea>
                                 <input type="submit" value="Submit">
+                                <input type="reset" value="Reset">
+
                             </div>
                         </div>
                     </form>

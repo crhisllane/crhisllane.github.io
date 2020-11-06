@@ -78,19 +78,25 @@
                             <p>All data in sql format. </p>
                         </div>
                         <div class="col-md">
-                            <img src="img/rede2.svg" class="icon">
+                            <a href="data/Network_LinJ_paper1.tab" download="Network_LinJ_paper1.tab">
+                                <img src="img/rede2.svg" class="icon" alt="Network_LinJ_paper1.tab">
+                            </a>
                             <h3><i>L. infantum</i></h3>
                             <p>Predicted protein interaction network using structural information. </p>
                         </div>                       
                         <div class="col-md">
-                            <img src="img/rede.svg" class="icon">
+                            <a href="data/Network_LbrM_paper1.tab" download="Network_LbrM_paper1.tab">
+                                <img src="img/rede.svg" class="icon" alt="Network_LbrM_paper1.tab">
+                            </a>    
                             <h3><i>L. braziliensis</i></h3>
                             <p>Predicted protein interaction network using structural information. </p>
                         </div>
                     </div>
                     <div class="row center-xs">
                         <div class="col-md">
-                            <img src="img/aprendizado-de-maquina.svg" class="icon">
+                            <a href="data/gbm.fit_model.rds" download="gbm.fit_model.rds">
+                                <img src="img/aprendizado-de-maquina.svg" class="icon" alt="gbm.fit_model.rds">
+                            </a>
                             <h3>GBM model</h3>
                             <p>The machine learning algorithms were evaluated against positive and negative interaction datasets used as controls. Based on this analysis, the gbm technique showed a better performance when compared to other machine learning algorithms, obtaining an AUC = 0.88.  The gbm algorithm calculates a response value ranging from 0 to 1, for which a minimum threshold of 0.46 has been determined based on controls to indicate interaction between the proteins.</p>
                         </div>
@@ -112,38 +118,48 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md center-xs">
-                            <h2 class="section-title">Downloads</h2>
+                            <h2 class="section-title">Downloads Paper 2</h2>
                         </div>
                     </div>
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">
-                            <a href="data/tab1" download="tab1">
-                                <img src="img/001-achievement.svg" class="icon " alt="tab1">
+                            <a href="" download="">
+                                <img src="img/base-de-dados.svg" class="icon " alt="">
                             </a>
                             <h3>Database</h3>
                             <p>All data in sql format. </p>
                         </div>
                         <div class="col-md">
-                            <img src="img/002-pencil.svg" class="icon">
-                            <h3>GBM model</h3>
-                            <p>The machine learning algorithms were evaluated against positive and negative interaction datasets used as controls. Based on this analysis, the gbm technique showed a better performance when compared to other machine learning algorithms, obtaining an AUC = 0.88.  The gbm algorithm calculates a response value ranging from 0 to 1, for which a minimum threshold of 0.46 has been determined based on controls to indicate interaction between the proteins.</p>
+                            <img src="img/estrutura-molecular.svg" class="icon">
+                            <h3>Binding pocket drug Similarity </h3>
+                            <p>Similarity of binding pocket drug by Methodology resume.</p>
                         </div>
                         <div class="col-md">
-                            <img src="img/003-idea.svg" class="icon">
-                            <h3>Benefit 3</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <img src="img/droga.svg" class="icon">
+                            <h3>Druggability Similarity</h3>
+                            <p>Druggability Similarity methodology </p>
                         </div>
                     </div>
                     <div class="row center-xs">
                         <div class="col-md">
-                            <img src="img/004-shopping-bag.svg" class="icon">
-                            <h3>Benefit 4</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <img src="img/pin.svg" class="icon">
+                            <h3>Subcellular location</h3>
+                            <p>Subcellular location methodology. </p>
                         </div>
                         <div class="col-md">
-                            <img src="img/005-fountain-pen.svg" class="icon">
-                            <h3>Benefit 5</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <img src="img/dna.svg" class="icon">
+                            <h3>Molecular function similarity</h3>
+                            <p>Molecular function similarity methodology. </p>
+                        </div>
+                        <div class="col-md">
+                            <img src="img/celula.svg" class="icon">
+                            <h3>Biological proccess similarity</h3>
+                            <p>Biological proccess similarity methodology. </p>
+                        </div>
+                        <div class="col-md">
+                            <img src="img/similar.svg" class="icon">
+                            <h3>Protein and Drug Target similarity</h3>
+                            <p>Protein and Drug Target similarity methodology. </p>
                         </div>
                     </div>
                 </div>

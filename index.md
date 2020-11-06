@@ -72,7 +72,7 @@
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">
                             <a href="data/tab1" download="tab1">
-                                <img src="img/001-achievement.svg" class="icon " alt="tab1">
+                                <img src="img/base-de-dados.svg" class="icon " alt="tab1">
                             </a>
                             <h3>Tab 1</h3>
                             <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
@@ -163,7 +163,7 @@
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">Email<br/>crhisllane.vasconcelos@ufpe.br</div>
                     </div>
-                    <form action="">
+                    <form action="crhisllane.vasconcelos@ufpe.br">
                         <div class="row margin-bottom-small center-xs">
 
                             <div class="col-md padding-small">
@@ -194,7 +194,7 @@
             <div class="row margin-bottom-small">
                 <div class="col-md-8">
                     <h3>About us</h3>
-                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                    <p>Database of papers produced in the bioinformatics nucleus of IAM-Fiocruz to search for therapeutic targets in <i>Leishmania</i> species.</p>
                 </div>
                 <div class="col-md-4">
                     <h3>Links</h3>

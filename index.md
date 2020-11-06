@@ -156,8 +156,8 @@
             </div>
             <div class="row">
                 <div class="col-md ">
-                    <p>Follow me on <a href="https://twitter.com/crhisllane" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: #38A1F3;">
-                    </svg></a></p>
+                    <p>Follow me on <a href="https://twitter.com/crhisllane" target="_blank"><img src="img/twitter-icon.svg" width="24" height="24" viewBox="0 0 24 24" style="fill: #38A1F3;">
+                    </a></p>
                     <p>Template created for free commercial use by Andreas Lautenschlager.</p>
                     <p>More free downloads under <a href="https://lautenschlager.de" target="_blank" rel="noopener">lautenschlager.de</a></p>
                     <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0; max-width: 60px;" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a><br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>.
@@ -170,10 +170,10 @@
 
     <div class="row secondary-footer">
         <div class="col-md">
-         <p>Made with love ♥ by Andreas Lautenschlager © 2019.</p>                
+         <p>LeishTargets is part of the Bioinformatics Center of Instituto Aggeu Magalhães - Fiocruz-PE.</p>                
      </div>
      <div class="col-md end-md">
-         <p><a href="#">Imprint</a> | <a href="#">Data Protection</a></p>                
+         <p><a href="#">last update nov 2020</a></p>                
      </div>
  </div>
  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?callback=polyfillsAreLoaded" defer></script>

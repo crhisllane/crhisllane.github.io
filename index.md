@@ -141,7 +141,7 @@
                     <div class="row center-xs">
                         <div class="col-md">
                             <img src="img/pin.svg" class="icon">
-                            <h3>Subcellular location</h3>
+                            <h3>Subcellular location Similarity</h3>
                             <p>Subcellular location methodology. </p>
                         </div>
                         <div class="col-md">

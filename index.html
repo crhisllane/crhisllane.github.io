@@ -66,7 +66,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md center-xs">
-                            <h2 class="section-title">Downloads</h2>
+                            <h2 class="section-title">Downloads Paper 1</h2>
                         </div>
                     </div>
                     <div class="row margin-bottom-small center-xs">
@@ -75,7 +75,7 @@
                                 <img src="img/base-de-dados.svg" class="icon " alt="tab1">
                             </a>
                             <h3>Database SQL</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <p>All data in sql format. </p>
                         </div>
                         <div class="col-md">
                             <img src="img/aprendizado-de-maquina.svg" class="icon">
@@ -83,16 +83,16 @@
                             <p>The machine learning algorithms were evaluated against positive and negative interaction datasets used as controls. Based on this analysis, the gbm technique showed a better performance when compared to other machine learning algorithms, obtaining an AUC = 0.88.  The gbm algorithm calculates a response value ranging from 0 to 1, for which a minimum threshold of 0.46 has been determined based on controls to indicate interaction between the proteins.</p>
                         </div>
                         <div class="col-md">
-                            <img src="img/003-idea.svg" class="icon">
-                            <h3>Benefit 3</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <img src="img/rede.svg" class="icon">
+                            <h3><i>L. braziliensis</i></h3>
+                            <p>Proteins interaction Network. </p>
                         </div>
                     </div>
                     <div class="row center-xs">
                         <div class="col-md">
-                            <img src="img/004-shopping-bag.svg" class="icon">
-                            <h3>Benefit 4</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <img src="img/rede2.svg" class="icon">
+                            <h3><i>L. infantum</i></h3>
+                            <p>Proteins interaction Network. </p>
                         </div>
                         <div class="col-md">
                             <img src="img/005-fountain-pen.svg" class="icon">
@@ -163,7 +163,7 @@
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">Email<br/>crhisllane.vasconcelos@ufpe.br</div>
                     </div>
-                    <form action="crhisllane.vasconcelos@ufpe.br" method="post" enctype="text/plain">
+                    <form action="mailto:crhisllane.vasconcelos@ufpe.br" method="post" enctype="text/plain">
                         <div class="row margin-bottom-small center-xs">
 
                             <div class="col-md padding-small">

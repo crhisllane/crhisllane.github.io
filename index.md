@@ -156,7 +156,7 @@
             </div>
             <div class="row">
                 <div class="col-md ">
-                    <p>Follow me on <a href="https://twitter.com/crhisllane" target="_blank"><img src="img/twitter-icon.svg" width="24" height="24" viewBox="0 0 24 24" style="fill: #38A1F3;">
+                    <p>Follow me on <a href="https://twitter.com/crhisllane" target="_blank"><img src="img/twitter-icon.svg" width="3" height="3" viewBox="0 0 3 3" style="fill: #38A1F3;">
                     </a></p>
                     <p>Template created for free commercial use by Andreas Lautenschlager.</p>
                     <p>More free downloads under <a href="https://lautenschlager.de" target="_blank" rel="noopener">lautenschlager.de</a></p>

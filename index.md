@@ -123,9 +123,7 @@
                     </div>
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">
-                            <a href="" download="">
-                                <img src="img/base-de-dados.svg" class="icon " alt="">
-                            </a>
+                            <img src="img/base-de-dados.svg" class="icon " alt="">
                             <h3>Database</h3>
                             <p>All data in sql format. </p>
                         </div>

@@ -12,19 +12,22 @@
 </head>
 <body>
     <header class="fade-in">
-        <div class="navigation-bar flex middle-xs">
+        <div class="navigation-bar flex middle-xs" id="home"> 
             <img src="img/drawing.png" class="logo">
             <nav class="end-xs">
                 <ul>
                     <li><a href="#about">About</a></li>
-                    <li><a href="#downloads">Downloads</a></li>
+                    <li><a href="#paper1">Paper 1</a></li>
+                    <li><a href="#downloads1">Downloads Paper 1</a></li>
+                    <li><a href="#paper2">Paper 2</a></li>
+                    <li><a href="#downloads2">Downloads Paper 2</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </nav>
         </div>
         <div class="hero flex middle-xs" style="background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)), url('img/protein-image.png');
     }">
-    <div class="hero-text " id="home">
+    <div class="hero-text " >
         <h1>LeishTargets</h1>
         <p>Project looking for drug targets in the proteome of <i>Leishmania</i> species.</p>
     </div>
@@ -51,15 +54,66 @@
             <section class="cta">
                 <div class="container">
                     <div class="row center-xs">
-                        <div class="col-md">
-                            <h2>Papers</h2>
+                        <div class="col-md" id="paper1">
+                            <h2>Paper 1</h2>
                             <p>Building protein-protein interaction networks for <i>Leishmania</i> species through protein structural information.</p>
                             <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2105-6" target="_blank"><button class="light">Paper</button></a>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="blurbs" id="downloads">
+            <section class="blurbs" id="downloads1">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md center-xs">
+                            <h2 class="section-title">Downloads</h2>
+                        </div>
+                    </div>
+                    <div class="row margin-bottom-small center-xs">
+                        <div class="col-md">
+                            <a href="data/tab1" download="tab1">
+                                <img src="img/001-achievement.svg" class="icon " alt="tab1">
+                            </a>
+                            <h3>Tab 1</h3>
+                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                        </div>
+                        <div class="col-md">
+                            <img src="img/002-pencil.svg" class="icon">
+                            <h3>Benefit 2</h3>
+                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                        </div>
+                        <div class="col-md">
+                            <img src="img/003-idea.svg" class="icon">
+                            <h3>Benefit 3</h3>
+                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                        </div>
+                    </div>
+                    <div class="row center-xs">
+                        <div class="col-md">
+                            <img src="img/004-shopping-bag.svg" class="icon">
+                            <h3>Benefit 4</h3>
+                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                        </div>
+                        <div class="col-md">
+                            <img src="img/005-fountain-pen.svg" class="icon">
+                            <h3>Benefit 5</h3>
+                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="cta">
+                <div class="container">
+                    <div class="row center-xs">
+                        <div class="col-md" id="paper2">
+                            <h2>Paper 2</h2>
+                            <p>Systematic in silico evaluation of <i>Leishmania</i> ssp. Proteomes for drug discovery.</p>
+                            <a href="" target="_blank"><button class="light">Paper</button></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="blurbs" id="downloads2">
                 <div class="container">
                     <div class="row">
                         <div class="col-md center-xs">
@@ -147,7 +201,10 @@
                     <ul>
                         <li><a href="#home">Home</a></li>
                         <li><a href="#about">About</a></li>
-                        <li><a href="#downloads">Downloads</a></li>
+                        <li><a href="#paper1">Paper 1</a></li>
+                        <li><a href="#downloads1">Downloads Paper 1</a></li>
+                        <li><a href="#paper2">Paper 2</a></li>
+                        <li><a href="#downloads2">Downloads Paper 2</a></li>
                         <li><a href="#contact">Contact</a></li>
                     </ul>
                 </div>

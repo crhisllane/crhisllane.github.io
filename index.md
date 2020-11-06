@@ -74,13 +74,13 @@
                             <a href="data/tab1" download="tab1">
                                 <img src="img/base-de-dados.svg" class="icon " alt="tab1">
                             </a>
-                            <h3>Tab 1</h3>
+                            <h3>Database SQL</h3>
                             <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
                         </div>
                         <div class="col-md">
-                            <img src="img/002-pencil.svg" class="icon">
-                            <h3>Benefit 2</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <img src="img/aprendizado-de-maquina.svg" class="icon">
+                            <h3>GBM model</h3>
+                            <p>The machine learning algorithms were evaluated against positive and negative interaction datasets used as controls. Based on this analysis, the gbm technique showed a better performance when compared to other machine learning algorithms, obtaining an AUC = 0.88.  The gbm algorithm calculates a response value ranging from 0 to 1, for which a minimum threshold of 0.46 has been determined based on controls to indicate interaction between the proteins.</p>
                         </div>
                         <div class="col-md">
                             <img src="img/003-idea.svg" class="icon">
@@ -125,13 +125,13 @@
                             <a href="data/tab1" download="tab1">
                                 <img src="img/001-achievement.svg" class="icon " alt="tab1">
                             </a>
-                            <h3>Tab 1</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <h3>Database</h3>
+                            <p>All data in sql format. </p>
                         </div>
                         <div class="col-md">
                             <img src="img/002-pencil.svg" class="icon">
-                            <h3>Benefit 2</h3>
-                            <p>Lorem ipsum dolor sit amet, c-r adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas volutpat, diam enim. </p>
+                            <h3>GBM model</h3>
+                            <p>The machine learning algorithms were evaluated against positive and negative interaction datasets used as controls. Based on this analysis, the gbm technique showed a better performance when compared to other machine learning algorithms, obtaining an AUC = 0.88.  The gbm algorithm calculates a response value ranging from 0 to 1, for which a minimum threshold of 0.46 has been determined based on controls to indicate interaction between the proteins.</p>
                         </div>
                         <div class="col-md">
                             <img src="img/003-idea.svg" class="icon">
@@ -163,7 +163,7 @@
                     <div class="row margin-bottom-small center-xs">
                         <div class="col-md">Email<br/>crhisllane.vasconcelos@ufpe.br</div>
                     </div>
-                    <form action="crhisllane.vasconcelos@ufpe.br">
+                    <form action="crhisllane.vasconcelos@ufpe.br" method="post" enctype="text/plain">
                         <div class="row margin-bottom-small center-xs">
 
                             <div class="col-md padding-small">
@@ -226,6 +226,7 @@
          <p>LeishTargets is part of the Bioinformatics Center of Instituto Aggeu Magalhães - Fiocruz-PE.</p>
          <p>Template created for free commercial use by Andreas Lautenschlager.</p>
          <p>More free downloads under <a href="https://lautenschlager.de" target="_blank" rel="noopener">lautenschlager.de</a></p>
+         <p>Icons by <a href="https://www.flaticon.com/br/autores/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/br/" title="Flaticon"> www.flaticon.com</a></p>
          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0; max-width: 60px;" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
             
      </div>
